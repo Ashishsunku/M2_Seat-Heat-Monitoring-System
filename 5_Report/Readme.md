@@ -79,3 +79,15 @@ In our project we have used ATmega328 microcontroller along with temperature sen
 | TID_08  | LED ON | Button=1 && Heater=1| LED=1 | PASS  |
 | TID_09  | LED OFF | Button=0 && Heater=0| LED=0 | PASS  |
 | TID_10  | LCD Display | Temperature :)<br />20 deg Cel| Temperature :)<br />20 deg Cel| PASS  |
+
+
+
+## SCHEMATIC  ##
+
+![usercase](https://github.com/Ashishsunku/practise/blob/be61e1951eb6bd8c0845ba35a8d7093f3e705658/total%20schematic.png)
+
+
+
+## OUTPUT  ##
+
+![usercase](
