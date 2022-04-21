@@ -90,4 +90,4 @@ In our project we have used ATmega328 microcontroller along with temperature sen
 
 ## OUTPUT  ##
 
-![usercase](
+![usercase](https://github.com/Ashishsunku/practise/blob/be61e1951eb6bd8c0845ba35a8d7093f3e705658/schematic%205.png)
